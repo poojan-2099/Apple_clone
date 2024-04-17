@@ -1,8 +1,17 @@
-# React + Vite
+# Apple Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of the Apple website, recreated to demonstrate the capabilities of modern web technologies. It's built using React.js with Vite, and features rich animations and 3D models powered by Three.js and GSAP.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Three.js**: Realistic 3D models and animations that mimic the look and feel of Apple's original website.
+- **GSAP**: Smooth and performant page transitions and interactive animations.
+- **React.js**: A component-based architecture for building user interfaces with efficiency and flexibility.
+- **Vite**: An ultra-fast build tool that provides a smooth developer experience.
+
+## Live Demo
+
+You can view the live demo of the project here. (https://poojan-2099.github.io/Apple_clone/)
+
+![Home](image.png)
+![Highlights](image-1.png)

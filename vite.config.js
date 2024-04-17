@@ -8,7 +8,7 @@ export default defineConfig({
     org: "csun",
     project: "javascript-react"
   })],
-
+  base:"/Apple_clone/",
   build: {
     sourcemap: true
   }
